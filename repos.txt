@@ -1,0 +1,2 @@
+https://github.com/nsickel/scala-csv-helper
+https://github.com/nsickel/docker-payara-mysql
