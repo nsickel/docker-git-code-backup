@@ -1,5 +1,5 @@
 FROM alpine:3.10
-MAINTAINER Nils Sickel <nils.sickel@gmail.com>
+MAINTAINER Nils Sickel
 
 RUN apk update && apk upgrade && \
     apk add bash && \
